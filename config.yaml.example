@@ -1,0 +1,4 @@
+FACE_SERVICE: 'http://face-service:3000'
+TELEGRAM_BOT_TOKEN: ''
+TELEGRAM_URL: 'https://api.telegram.org'
+DEBUG_MODE: 'false'
